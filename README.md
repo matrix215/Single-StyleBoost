@@ -11,9 +11,9 @@ Recent advancements in text-to-image models, such as Stable Diffusion, have demo
 
 ## Repository Overview
 There are several directories in this repo:
-  - training_dreambooth.py is the code for learning the DreamBooth model.
-  - training_code.py represents the source code for learning the model.
-  - cmd_.py is the source code in which the learned model is executed by the prompt.
+  - *training_dreambooth.py* is the code for learning the DreamBooth model.
+  - *training_code.py* represents the source code for learning the model.
+  - *cmd_.py* is the source code in which the learned model is executed by the prompt.
 
 ## Citation
 ```bash
