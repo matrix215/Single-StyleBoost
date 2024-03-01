@@ -8,3 +8,18 @@ Recent advancements in text-to-image models, such as Stable Diffusion, have demo
 
 
 # Repository Overview
+
+
+# Citation
+```bash
+@INPROCEEDINGS{10392676,
+  author={Park, Junseo and Ko, Beomseok and Jang, Hyeryung},
+  booktitle={2023 14th International Conference on Information and Communication Technology Convergence (ICTC)}, 
+  title={StyleBoost: A Study of Personalizing Text-to-Image Generation in Any Style using DreamBooth}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={93-98},
+  keywords={Training;Measurement;Visualization;Art;Shape;Natural languages;Transforms;text-to-image models;diffusion models;person-alization;fine-tuning},
+  doi={10.1109/ICTC58733.2023.10392676}}
+```
