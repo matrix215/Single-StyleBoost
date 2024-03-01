@@ -7,10 +7,10 @@ Recent advancements in text-to-image models, such as Stable Diffusion, have demo
 ![over_fig3](https://github.com/matrix215/Single-StyleBoost/assets/101815603/e5676700-8ec2-46e4-82b5-4924da8b0852)
 
 
-# Repository Overview
+## Repository Overview
 
 
-# Citation
+## Citation
 ```bash
 @INPROCEEDINGS{10392676,
   author={Park, Junseo and Ko, Beomseok and Jang, Hyeryung},
