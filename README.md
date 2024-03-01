@@ -10,7 +10,9 @@ Recent advancements in text-to-image models, such as Stable Diffusion, have demo
 
 
 ## Repository Overview
-
+There are several directories in this repo:
+  - training_code represents the source code for learning the model.
+  - cmd_ is the source code in which the learned model is executed by the prompt.
 
 ## Citation
 ```bash
