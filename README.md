@@ -1,6 +1,6 @@
 # Single-StyleBoost
 
-## Official PyTorch implementation of the paper "Single-StyleBoost"
+## PyTorch implementation of the paper "Single-StyleBoost"
 
 paper: https://doi.org/10.1109/ICTC58733.2023.10392676
 
